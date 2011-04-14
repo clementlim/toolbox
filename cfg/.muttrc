@@ -1,0 +1,16 @@
+set imap_user=clementlim@fastmail.fm
+set imap_home_namespace="INBOX"
+set folder="imaps://imaps.proxy.fastmail.fm:443/INBOX"
+set spoolfile="imaps://imaps.proxy.fastmail.fm:443/INBOX"
+set record="imaps://imaps.proxy.fastmail.fm:443/INBOX.Sent Items"
+set postponed="imaps://imaps.proxy.fastmail.fm:443/INBOX.Drafts"
+set mask="."
+set editor="vim"
+set timeout=60
+set mail_check=30
+
+set realname="Clement"
+set from="kamilon@warpmail.net"
+
+set use_from=yes
+set edit_headers=yes

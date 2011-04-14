@@ -1,0 +1,8 @@
+hardstatus alwayslastline
+hardstatus string '%{= kG}%{g}[ %{G}%H %{g}][%= %{w} %{=kw}%?%-Lw%?%{r}(%{W}%n*%f%t%?(%u)%?%{r})%{w}%?%+Lw%?%?%= %{g}][ %{B}%m-%d-%Y %{W}%D %c %{g}]'
+
+# Default screens
+# Format: screen -t NameOfScreen ScreenNumber ShellCommand
+screen -t shell1	0
+screen -t shell2	1
+screen -t shell3	2
